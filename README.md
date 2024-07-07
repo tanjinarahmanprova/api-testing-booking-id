@@ -64,6 +64,10 @@ git https://github.com/tanjinarahmanprova/api-testing-booking-id.git
 - Import the project into postman.
 - Make any desired changes or additions to the project.
 
+## API Documentation
+- [API Documentation](https://restful-booker.herokuapp.com/apidoc/index.html)
+- [Postman API Documentation](https://documenter.getpostman.com/view/32325704/2sA3QmDEV6)
+
 ## Description of API calls and tests
 ### Create booking
 POST method is used to create booking. Dynamic data is generated using Pre-request script and these dynamic data is saved in environment variables.
