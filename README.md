@@ -59,7 +59,7 @@ Follow these steps to set up and start using the framework
 - [Fork](https://github.com/tanjinarahmanprova/api-testing-booking-id.git) the repository.
 - Clone
 ```
-git https://github.com/tanjinarahmanprova/api-testing-booking-id.git
+git clone https://github.com/tanjinarahmanprova/api-testing-booking-id.git
 ```
 - Import the project into postman.
 - Make any desired changes or additions to the project.
